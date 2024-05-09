@@ -1,0 +1,26 @@
+# dependencies
+/node_modules
+
+# build artifacts
+/build
+/dist
+
+# logs
+/logs
+
+# configuration files
+/config/*.env
+
+# IDE and text editor files
+.idea
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# operating system files
+.DS_Store
+Thumbs.db
