@@ -1,0 +1,56 @@
+/* Basic Styles */
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1, h2 {
+  margin: 10px 0;
+}
+
+main {
+  padding: 50px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+/* Specific Section Styles */
+.about-ccms p {
+  line-height: 1.5;
+}
+
+.features li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.benefits li {
+  font-weight: bold;
+}
